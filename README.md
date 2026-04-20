@@ -4,7 +4,7 @@ Saya adalah mahasiswa Teknik Informatika dengan latar belakang Multimedia yang s
 
 ## 🛠️ Tech Stack & Tools
 
-**Frontend Development:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Frontend Development (Current Interest):** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@ Saya adalah mahasiswa Teknik Informatika dengan latar belakang Multimedia yang s
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
-**Security & Forensics (Current Interest):** * Malware Analysis & Memory Forensics (Volatility 3, MITRE ATT&CK)
+**Security & Forensics:** * Malware Analysis & Memory Forensics (Volatility 3, MITRE ATT&CK)
 
 ## 🚀 Featured Projects
 
