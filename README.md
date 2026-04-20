@@ -19,7 +19,7 @@ Saya adalah mahasiswa Teknik Informatika dengan latar belakang Multimedia yang s
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
-**Security & Forensics:** * Malware Analysis & Memory Forensics (Volatility 3, MITRE ATT&CK)
+**Security & Forensics:** Malware Analysis & Memory Forensics (Volatility 3, MITRE ATT&CK)
 
 ## 🚀 Featured Projects
 
