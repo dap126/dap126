@@ -28,7 +28,7 @@ Saya adalah mahasiswa Teknik Informatika dengan latar belakang Multimedia yang s
 ## 🌱 Currently Learning & Doing
 
 - Terus mengasah kemampuan *full-stack development* dengan ekosistem Laravel dan Vue.js.
-- Memperdalam bahasa dan budaya Jepang untuk persiapan sertifikasi JLPT (N5 - N3), dengan target karir profesional di masa depan.
+- Memperdalam bahasa dan budaya Jepang, dengan target karir profesional di masa depan.
 - Mengeksplorasi praktik keamanan siber, analisis *malware*, dan optimasi performa *hardware* PC.
 
 ## 📫 Let's Connect!
