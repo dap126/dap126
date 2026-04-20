@@ -30,6 +30,7 @@ Saya adalah mahasiswa Teknik Informatika dengan latar belakang Multimedia yang s
 - Mengeksplorasi praktik keamanan siber, analisis *malware*, dan optimasi performa *hardware* PC.
 
 ## 📫 Let's Connect!
+* ✉️ **Email:** [https://www.instagram.com/daffa5126_]
 
 ---
 ⭐️ *Fun fact: When I'm not writing code or studying Japanese, you can probably find me tweaking PC thermals for better performance or managing my virtual football club!*
